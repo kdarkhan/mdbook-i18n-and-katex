@@ -1,0 +1,6 @@
+[book]
+authors = ["Darkhan Kubigenov"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Hello MDBOOK"
