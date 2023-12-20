@@ -1,0 +1,108 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Hello MDBOOK\n"
+"POT-Creation-Date: 2023-12-23T20:27:01Z\n"
+"PO-Revision-Date: 2023-12-23 20:27+0000\n"
+"Last-Translator:  <darkhanu@gmail.com>\n"
+"Language-Team: Russian <gnu@d07.ru>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ru\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#: src/SUMMARY.md:1
+msgid "Summary"
+msgstr "Содержание"
+
+#: src/SUMMARY.md:3 src/chapter_1.md:3
+msgid "Chapter 1"
+msgstr "Глава 1"
+
+#: src/chapter_1.md:5
+msgid ""
+"Testing [mdbook-gettext](https://github.com/google/mdbook-i18n-helpers) with "
+"[mdbook-katex](https://github.com/lzanini/mdbook-katex)."
+msgstr ""
+
+#: src/chapter_1.md:8
+msgid "This is an example of inline latex "
+msgstr "Это пример инлайн Latex "
+
+#: src/chapter_1.md:8 src/chapter_1.md:10
+msgid "π"
+msgstr ""
+
+#: src/chapter_1.md:8 src/chapter_1.md:10
+msgid "("
+msgstr ""
+
+#: src/chapter_1.md:8 src/chapter_1.md:10
+msgid "θ"
+msgstr ""
+
+#: src/chapter_1.md:8 src/chapter_1.md:10
+msgid ")"
+msgstr ""
+
+#: src/chapter_1.md:8
+msgid " which should render as expected."
+msgstr ", который рендерится как нужно."
+
+#: src/chapter_1.md:10
+msgid ""
+"This shows that `skip` instruction does not work on inline latex snippet "
+msgstr ""
+"\nЭто показывает, что `skip` инструкция не работает на инлайн Latex "
+
+#: src/chapter_1.md:10
+msgid "."
+msgstr ""
+
+#: src/chapter_1.md:12
+msgid "This is an example Latex block that generates too many gettext entries."
+msgstr "Это пример Latex блока, который генерит слишком много gettext записей."
+
+#: src/chapter_1.md:15
+msgid "1"
+msgstr ""
+
+#: src/chapter_1.md:15
+msgid "0"
+msgstr ""
+
+#: src/chapter_1.md:15
+msgid "​"
+msgstr ""
+
+#: src/chapter_1.md:15
+msgid "x"
+msgstr ""
+
+#: src/chapter_1.md:15
+msgid "2"
+msgstr ""
+
+#: src/chapter_1.md:15
+msgid "3"
+msgstr ""
+
+#: src/chapter_1.md:15
+msgid "o"
+msgstr ""
+
+#: src/chapter_1.md:15
+msgid "u"
+msgstr ""
+
+#: src/chapter_1.md:15
+msgid "t"
+msgstr ""
+
+#: src/chapter_1.md:17
+msgid ""
+"This is an example Latex block with `skip` instruction which works as "
+"expected."
+msgstr ""
+"Это пример Latex блока с инструкцией `skip`, которая работает как надо."

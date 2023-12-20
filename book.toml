@@ -4,3 +4,10 @@ language = "en"
 multilingual = false
 src = "src"
 title = "Hello MDBOOK"
+
+[preprocessor.katex]
+after = ["links"]
+
+
+[preprocessor.gettext]
+after = ["katex"]
