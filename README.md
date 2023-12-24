@@ -1,5 +1,8 @@
 # POC for making mdbook-i18n-helpers work with mdbook-katex
 
+Pre-built versions of the books are available in Pages
+[here](https://kdarkhan.github.io/mdbook-i18n-and-katex/).
+
 I created this repo while investigating
 [mdbook-i18n-helpers/issues/105](https://github.com/google/mdbook-i18n-helpers/issues/105).
 
